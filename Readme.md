@@ -36,7 +36,7 @@ This the only repo u need in hackathons!! ## MALLU EDITION
 
 12) USE PUBLIC API (if there is no restriction)
 --- Use this below repo to make your work super easy with apis.
-$$$ REPO LINK: ``` https://github.com/public-api-lists/public-api-lists?tab=readme-ov-file#art--design ```
+$$$ REPO LINK: ``` https://github.com/public-api-lists/public-api-lists ```
 
 13) FOR NICHE HACKATHONS
 --- Try to make a truly different and unique ideas enough to make your team stand out among other teams
