@@ -28,8 +28,8 @@ This the only repo u need in hackathons!! ## MALLU EDITION
 
 9) THE SECOND MOST IMP Question is "WHY" & "WHEN" PEOPLE WILL USE YOUR PROJECT ?
 
-   * It should completely solve their problem or atmost atleast 90 % 
-   * 
+   * It should completely solve their problem atmost atleast 90 % 
+   * follow and reviewe your step process @ step 4 (above 4th one)
 10) If the hackathon is a STARTUP IDEATION then think of a project which is innovative and at the same time it should generate some revenue.
 
 11) Logic Reasoning and Kooman SENSE-- USE IT WISELY EVEN IF U DONT HAVE (like me fr*)
