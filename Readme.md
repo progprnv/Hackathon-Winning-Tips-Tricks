@@ -1,10 +1,10 @@
-This the only repo u need in hackathons!!
+This the only repo u need in hackathons!! ## MALLU EDITIONNN
 
 അറിയിപ്പ് A.ka. NOTE: chatgpt aint harmed in this repo :xd
 
 # STEP 0 - "THE MOST IMPORTANT THING"
 
-1) Know your timeframe 
+1) Know your time-frame 
 
 2) Dont try to make complicated features. Start from building a small stuff ... then update concurrently.
 
@@ -32,7 +32,7 @@ This the only repo u need in hackathons!!
    * 
 10) If the hackathon is a STARTUP IDEATION then think of a project which is innovative and at the same time it should generate some revenue.
 
-11)
+11) 
 
 12)    USE PUBLIC API (if there is no restriction)
 --- Use this below repo to make your work super easy with apis.
