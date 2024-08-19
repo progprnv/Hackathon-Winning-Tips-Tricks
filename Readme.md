@@ -1,6 +1,6 @@
-This the only repo u need in hackathons!! ## MALLU EDITIONNN
+This the only repo u need in hackathons!! ## MALLU EDITION
 
-അറിയിപ്പ് A.ka. NOTE: chatgpt aint harmed in this repo :xd
+അറിയിപ്പ് A.k.a. NOTE: chatgpt aint harmed in this repo :xd
 
 # STEP 0 - "THE MOST IMPORTANT THING"
 
@@ -32,9 +32,9 @@ This the only repo u need in hackathons!! ## MALLU EDITIONNN
    * 
 10) If the hackathon is a STARTUP IDEATION then think of a project which is innovative and at the same time it should generate some revenue.
 
-11) 
+11) Logic Reasoning and Kooman SENSE-- USE IT WISELY EVEN IF U DONT HAVE (like me fr*)
 
-12)    USE PUBLIC API (if there is no restriction)
+12) USE PUBLIC API (if there is no restriction)
 --- Use this below repo to make your work super easy with apis.
 $$$ REPO LINK: ``` https://github.com/public-api-lists/public-api-lists?tab=readme-ov-file#art--design ```
 
