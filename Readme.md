@@ -18,27 +18,30 @@ This the only repo u need in hackathons!! ## KERALA EDITION or MALLU EDITION ???
      
 5)  Ask Questions to urself!! DO ANY HOOMANS WILL USE YOUR APP or WEBSITE TO MITIGATE THEIR PROBLEM? if not, vere idea kandu pidikananm mister!!!
 
-6) First 5 process ... call it as "RECON" (chumma oru fun :)
+6) Now it's time to plan your content / context (haa dammm idk wht the f is.. lev it)
 
-7) OK AFTER RECON, Think of these qns
+7) OK AFTER STEP 5, Think of these qns
 ---- WHY   ++
 ---- WHEN   ++
 ---- WHERE   ++
               ++ TO USE YOUR PROJECT
 
-9) THE SECOND MOST IMP Question is "WHY" & "WHEN" PEOPLE WILL USE YOUR PROJECT ?
+## STEP 1 - ENI KALIKAL VERE LEVEL :)
+
+
+8) THE SECOND MOST IMP Question is "WHY" & "WHEN" PEOPLE WILL USE YOUR PROJECT ?
 
    * It should completely solve their problem atmost atleast 90 % 
-   * follow and reviewe your step process @ step 4 (above 4th one)
-10) If the hackathon is a STARTUP IDEATION then think of a project which is innovative and at the same time it should generate some revenue.
+   * follow and review your step process @ step 4 (above 4th one)
+9) If the hackathon is a STARTUP IDEATION then think of a project which is innovative and at the same time it should generate some revenue. (be sure it won't be generating revenue like spotify premium or youtube premium features.. i hope u can understand what i am really trying to mean).
 
-11) Logic Reasoning and Kooman SENSE-- USE IT WISELY EVEN IF U DONT HAVE (like me fr*)
+10) Logic Reasoning and Kooman SENSE -- USE IT WISELY EVEN IF U DONT HAVE (like me fr*)
 
-12) USE PUBLIC API (if there is no restriction)
+11) USE PUBLIC API (if there is no restriction)
 --- Use this below repo to make your work super easy with apis.
 $$$ REPO LINK: ``` https://github.com/public-api-lists/public-api-lists ```
 
-13) FOR NICHE HACKATHONS
+12) FOR NICHE HACKATHONS
 --- Try to make a truly different and unique ideas enough to make your team stand out among other teams
 --- Study about past winning projects or submissions of that particular hackathon. This will increase your understanding of what invigilator or the judges are expecting from your team.
 ---- 
