@@ -1,4 +1,4 @@
-This the only repo u need in hackathons!! ## MALLU EDITION
+This the only repo u need in hackathons!! ## KERALA EDITION or MALLU EDITION ??? wtvr lets move on...
 
 അറിയിപ്പ് A.k.a. NOTE: chatgpt aint harmed in this repo :xd
 
