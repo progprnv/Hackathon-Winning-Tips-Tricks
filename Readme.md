@@ -13,8 +13,8 @@ This the only repo u need in hackathons!! ## KERALA EDITION or MALLU EDITION ???
 4) The simple idea u guys thought of should be able to solve a vast problem.
 
    KEY FEATURES OF A SIMPLE IDEA:
-     > LESS TIME COMPLEXITY
-     > This means your project (ie solution to the problem statement) must make a drastic change in any of the parameters -- TIME , USAGE , AVAILIBILITY , Can your project would be implemented in less span of time?
+     * LESS TIME COMPLEXITY
+     * This means your project (ie solution to the problem statement) must make a drastic change in any of the parameters -- TIME , USAGE , AVAILIBILITY , Can your project would be implemented in less span of time?
      
 5)  Ask Questions to urself!! DO ANY HOOMANS WILL USE YOUR APP or WEBSITE TO MITIGATE THEIR PROBLEM? if not, vere idea kandu pidikananm mister!!!
 
